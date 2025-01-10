@@ -1,0 +1,113 @@
+
+.fira-sans-thin{
+    font-family: "Fira Sans", serif;
+}
+
+/* banner style */
+.bg{
+    background-color: #C6E4D6;
+}
+body{
+    max-width: 1280px;
+    margin: 0px auto;
+}
+.banner{
+    display: flex;
+    /* width: 1280px; */
+    border-radius: 24px;
+    padding: 60px 117px;
+    gap: 64px;
+
+}
+.banner-title{
+    font-size: 24px;
+    font-weight: 500;
+    color: #0E0E0E;
+}
+.banner-pera{
+    font-size: 56px;
+    font-weight: bold;
+    color: #0E0E0E;
+    width: 622px;
+}
+.banner-btn{
+    font-size: 18px;
+    font-weight: 600;
+    color: #FFFFFF;
+    padding: 17px 34px;
+    background-color: #006A50;
+    border-radius: 8px;
+    border: none;
+}
+.image{
+    width: 474px;
+    height: 400px;
+}
+/* vison style */
+.vison-title{
+    font-size: 40px;
+    font-weight: bold;
+    color: #0E0E0E;
+}
+.vison-pera{
+    font-size: 16px;
+    font-weight: 400;
+    color: #0E0E0E;
+}
+.vison-containts{
+    display: flex;
+    gap: 24px;
+}
+.vusin-containt-d{
+    padding: 32px;
+    background-color: rgba(84, 144, 245, 0.2);
+    border-radius: 16px;
+}
+.vusin-cotaint-title{
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(14, 14, 14, 0.8);
+}
+.vusin-containt-pera{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(14, 14, 14, 0.7);
+}
+.vusin-containt-btn-1{
+    font-size: 16px;
+    font-weight: 600;
+    color: #FFFFFF;
+    border-radius: 8px;
+    padding: 11px 20px;
+    border: none;
+    background-color: #5490F5;
+}
+.vusin-containt-g{
+    border-radius: 16px;
+    padding: 32px;
+    background-color: rgba(198, 228, 214, 1);
+}
+.vusin-containt-btn-2{
+    font-size: 16px;
+    font-weight: 600;
+    color: #FFFFFF;
+    border-radius: 8px;
+    padding: 11px 20px;
+    border: none;
+    background-color: #09A15C;
+
+}
+.vusin-containt-m{
+    border-radius: 16px;
+    padding: 32px;
+    background-color: #F7EBCF;
+}
+.vusin-containt-btn-3{
+    font-size: 16px;
+    font-weight: 600;
+    color: #FFFFFF;
+    border-radius: 8px;
+    padding: 11px 20px;
+    border: none;
+    background-color: #FFC239;
+}
