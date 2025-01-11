@@ -19,6 +19,9 @@ nav{
     justify-content: space-between;
     margin-bottom: 31px;
 }
+.nav-btn:hover{
+    background-color: brown;
+}
 .nav-btn{
     font-weight: 600;
     font-size: 18px;
@@ -51,6 +54,9 @@ nav{
     font-weight: bold;
     color: #0E0E0E;
     margin-bottom: 24px;
+}
+.banner-btn:hover{
+    background-color: brown;
 }
 .banner-btn{
     font-size: 18px;
@@ -97,6 +103,9 @@ nav{
     font-weight: 400;
     color: rgba(14, 14, 14, 0.7);
 }
+.vusin-containt-btn-1:hover{
+    background-color: brown;
+}
 .vusin-containt-btn-1{
     font-size: 16px;
     font-weight: 600;
@@ -110,6 +119,9 @@ nav{
     border-radius: 16px;
     padding: 32px;
     background-color: rgba(198, 228, 214, 1);
+}
+.vusin-containt-btn-2:hover{
+    background-color: brown;
 }
 .vusin-containt-btn-2{
     font-size: 16px;
@@ -125,6 +137,9 @@ nav{
     border-radius: 16px;
     padding: 32px;
     background-color: #F7EBCF;
+}
+.vusin-containt-btn-3:hover{
+    background-color: brown;
 }
 .vusin-containt-btn-3{
     font-size: 16px;
@@ -172,7 +187,7 @@ nav{
     background-color: #FFFFFF;
     padding: 56px 48px;
 }
-.news-1-image{
+.news-1-image img{
     width: 408px;
     height: 306px;
     border-radius: 24px;
@@ -189,6 +204,9 @@ nav{
     color: rgba(14, 14, 14, 0.7);
     margin-bottom: 32px;
     margin-top: 12px;
+}
+.news-1-text-btn:hover{
+    background-color: brown;
 }
 .news-1-text-btn{
     font-size: 18px;
@@ -228,7 +246,7 @@ nav{
     text-align: center;
     margin-bottom: 32px;
 }
-.donate-btn{
+.donate-bttn{
     font-size: 40px;
     font-weight: bold;
     color: rgba(14, 14, 14, 0.8);
@@ -254,6 +272,9 @@ nav{
     background-color: #FFFFFF;
     margin-top: 32px;
     border: none;
+}
+.btn-d:hover{
+    background-color: brown;
 }
 .btn-d{
     font-size: 18px;
@@ -301,6 +322,9 @@ nav{
     text-align: center;
     margin-top: 24px;
 }
+.sub-btn:hover{
+    background-color: brown;
+}
 .sub-btn{
     background-color: #006A50;
     color: #FFFFFF;
@@ -309,9 +333,6 @@ nav{
     border-radius: 4px;
     padding: 17px 34px;
     border: none;
-}
-.sub > .sub-btn:hover{
-    background-color: #FFC239;
 }
 /* yunus style */
 .yunus{
@@ -387,7 +408,5 @@ footer{
     /* text-align: center; */
     /* align-items: center; */
     justify-content: center;
-
     gap: 23px;
 }
-
